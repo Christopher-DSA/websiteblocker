@@ -10,9 +10,6 @@ A Windows application that allows users to block and unblock websites system-wid
 - Automatically handles both www and non-www versions of domains
 - Requires administrator privileges for hosts file modification
 
-## Screenshots
-[Add screenshots of your application here]
-
 ## Requirements
 - Windows OS
 - .NET 8.0 or later
@@ -28,4 +25,4 @@ A Windows application that allows users to block and unblock websites system-wid
 1. Enter a website domain (e.g., facebook.com)
 2. Click "Block Website" to add it to the blocked list
 3. To unblock, select a website from the list and click "Unblock Selected"
-4. Changes take effect immediately across all browsers
+4. Changes take effect immediately across all browsers (You will need to close the browser first)
