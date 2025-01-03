@@ -1,0 +1,8 @@
+﻿## Visual Studio files
+.vs/
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.suo
